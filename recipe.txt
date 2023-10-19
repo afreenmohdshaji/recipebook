@@ -1,0 +1,6 @@
+recipies(biriyani):
+    Rice:1kg
+    water:sufficient for 1ikg Rice
+    onion:1kg
+    ginger:500gm
+    chicken:1kg
