@@ -4,3 +4,7 @@ recipies(biriyani):
     onion:1kg
     ginger:500gm
     chicken:1kg
+    ghee:200g
+    tomato:1kg
+    chicken masala:500gm
+    
